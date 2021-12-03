@@ -33,6 +33,10 @@ Wedding Planner: Full Stack Web Application (Work in Progress)					Live  GitHub
 * Routed API and HTML using Node.js and Express.js
 * Designed reusable components and pages using Handlebars.js template engine
 
+GPT3: Modern Website										                              Live  GitHub
+A fully responsive frontend web page design
+●	Built reusable React components based on Figma sketches
+●	Wrote CSS Flexbox and media queries to create a fully responsive and modern looking design
 
 
 EDUCATION
