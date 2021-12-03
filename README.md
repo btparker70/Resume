@@ -1,5 +1,5 @@
 Brian Parker Software Engineer
-650-922-9804    btparker70@gmail.com    Linkedin    GitHub    Portfolio
+
 
 
 SKILLS
