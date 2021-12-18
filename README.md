@@ -25,6 +25,18 @@ A mobile app that connects DJs to promoters, potential clients and fans with an 
 
 
 Projects
+Alien Thrift Store (Work in Progress)								              Live  GitHub
+
+An eCommerce site for alien wares
+Created a Python/Django based web application using Python scripting for data processing
+Designing PostgreSQL database schemas and tables
+Fully integrated payment with Paypal for quick and secure exchange
+Added detailed admin panels to modify existing users, orders, products etc
+Routed API and HTML using Django
+Designed reusable components and pages using React
+Developed React components with TypeScript which significantly improved error catching
+Implemented global state management with Redux
+
 Wedding Planner: Full Stack Web Application (Work in Progress)					Live  GitHub
 
 
