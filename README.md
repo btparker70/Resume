@@ -3,14 +3,16 @@ Brian Parker Software Engineer
 
 
 SKILLS
-React, React Native, JavaScript, Node, MongoDB, MySQL, Firebase, Express, Git, HTML5, CSS3, ES6
+
+React, React Native, JavaScript, Node, MongoDB, MySQL, Firebase, Express, Django, Python, Git, Figma, HTML5, CSS3, ES6, Android Studios, Jest
 
 
 EXPERIENCE
+
 Noi Live, Inc										            March 2021 - Current
 Software Engineer											         Webpage
 
-A mobile app that connects DJs to promoters, potential clients and fans with an interactive digital EPK
+* A mobile app that connects DJs to promoters, potential clients and fans with an interactive digital EPK
 * Refined JavaScript and JSX logic which increased React component rendering speeds
 * Implemented state management with React Native which significantly reduced Firestore data usage
 * Enhanced user experience by unifying design themes using React Native Elements package
@@ -21,21 +23,24 @@ A mobile app that connects DJs to promoters, potential clients and fans with an 
 * Migrated databases from MongoDB Atlas to Firestore resulting in increased scalability
 * Connected Stripe payment processing to front and back end
 * Wrote form validation logic using JavaScript for all React forms
+* Authored documentation which helped onboard new developers
+
 
 
 
 Projects
+
 Alien Thrift Store (Work in Progress)								              Live  GitHub
 
 An eCommerce site for alien wares
-Created a Python/Django based web application using Python scripting for data processing
-Designing PostgreSQL database schemas and tables
-Fully integrated payment with Paypal for quick and secure exchange
-Added detailed admin panels to modify existing users, orders, products etc
-Routed API and HTML using Django
-Designed reusable components and pages using React
-Developed React components with TypeScript which significantly improved error catching
-Implemented global state management with Redux
+* Created a Python/Django based web application using Python scripting for data processing
+* Designing PostgreSQL database schemas and tables
+* Fully integrated payment with Paypal for quick and secure exchange
+* Added detailed admin panels to modify existing users, orders, products etc
+* Routed API and HTML using Django
+* Designed reusable components and pages using React
+* Developed React components with TypeScript which significantly improved error catching
+* Implemented global state management with Redux
 
 Wedding Planner: Full Stack Web Application (Work in Progress)					Live  GitHub
 
