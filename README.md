@@ -4,7 +4,7 @@ Brian Parker Software Engineer
 
 SKILLS
 
-React, React Native, JavaScript, Node, MongoDB, MySQL, Firebase, Express, Django, Python, Git, Figma, HTML5, CSS3, ES6, Android Studios, Jest
+React, React Native, JavaScript, Node, MongoDB, MySQL, Firebase, Express, Django, Python, Git, Figma, HTML5, CSS3, ES6, Android Studios, Jest, linux, shell scripting
 
 
 EXPERIENCE
